@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 # Looking for new challenges!
@@ -9,7 +9,7 @@ My interests and strengths are:
 * Cloud infrastructure in AWS
 * Automation with ansible, bash and python
 * Programming with golang and python
-* Monitoring with Prometheus and Grafana* 
+* Monitoring with Prometheus and Grafana
 
 
 If you're interested in my CV take a look at my LinkedIn Page or if you're more technically inclined:
